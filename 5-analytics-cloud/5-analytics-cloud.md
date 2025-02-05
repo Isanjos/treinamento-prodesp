@@ -23,7 +23,29 @@ O objetivo deste workshop é demonstrar de forma prática como utilizar a ferram
 ### _**Aproveite sua experiência na Oracle Cloud!**_
 
 
-## 1️⃣ Acessar OAC 
+## 1️⃣ Criação do Oracle Analytics Cloud
+
+Clique no menu de hambúrger do canto superior esquerdo da tela, na sequência navegue até a página de gestão do Oracle Analytics Cloud.
+
+![Analytics Cloud Acess](images/AcessoAnalytics.png)
+
+Na página de gestão do Oracle Analytics Cloud, clique em **Create Instance**.
+  
+![Create Analytics Cloud](images/CreateOAC.png)
+
+Dê um nome a instância do Analytics Cloud e mantenha as outras configurações como na imagem a seguir. Ao finalizar clique em **Create**:
+
+![Configurando Analytics Cloud](images/CreateOAC1.png)
+![Configurando Analytics Cloud](images/CreateOAC2.png)
+
+Aguarde até a conclusão da criação: 
+- Ícone amarelo = criando; 
+- Ícone verde = pronto para uso;
+![Green OAC](images/CreateOAC3.png)
+
+Após a criação do OAC, você está pronto para prosseguir para o próximo laboratório.
+
+## 2️⃣ Acessar OAC 
 
 1. Clique no menu de hambúrger do canto superior esquerdo da tela, na sequência navegue até a página de gestão do Oracle Analytics Cloud.
    ![Analytics Cloud Acess](images/AcessoOAC.png)
@@ -54,7 +76,7 @@ O objetivo deste workshop é demonstrar de forma prática como utilizar a ferram
 8. (OPCIONAL) Após a importação você terá acesso ao dataset (Conjunto de Dados) **Brasil-Embarcações** e ao workbook que vamos fazer, se quiser dar uma olhada como ele vai ficar no final só entrar nele **Lab Analytics - Embarcações Brasil**. 
    ![Homepage depois do import](images/Import4.png)
 
-## 2️⃣ Criação do Dashboard - Visualizações
+## 3️⃣ Criação do Dashboard - Visualizações
 
 1. Na Homepage do OAC, selecione o Menu de Hamburguer (Canto Superior Esquerdo), Selecione Dados e a Aba Conjunto de Dados (Dataset).
 ![Homepage - Conjunto de Dados](images/Dataset.png)
@@ -85,7 +107,7 @@ O objetivo deste workshop é demonstrar de forma prática como utilizar a ferram
 9. Salve seu trabalho até agora. Selecione o ícone do disquete no campo direito superior. Dê um nome para o seu Painel e salve. 
 ![Salvar Painel](images/Save.png)
 
-## 3️⃣ Adição de Estatística nas Visualizações
+## 4️⃣ Adição de Estatística nas Visualizações
 
 1. Adicione estatísticas como: _Previsão, Linha de Tendência, Linha de Referência, Outliers ou Cluster_. 
 <br> Selecione a visualização que deseja adiconar estatística. Clique com o _botão direito_, selecione **Adionar Estatísticas**. E escolha a opção **Outliers**, trará os pontos que destoam do grupo. 
@@ -112,7 +134,7 @@ O objetivo deste workshop é demonstrar de forma prática como utilizar a ferram
    ![Linha de Referência](images/Referencia3.png)
    ![Linha de Referência](images/Referencia4.png)
 
-## 4️⃣ One-Click Explain & Autoinsights
+## 5️⃣ One-Click Explain & Autoinsights
 1. Adicione mais uma tela. No canto inferior tem um símbolo de '+', ao lado da aba 'Tela 1' ou 'Geral'. Clique nele para adicionar uma segunda Tela.
    ![Tela 2](images/Tela2.png) 
 
@@ -169,7 +191,7 @@ O objetivo deste workshop é demonstrar de forma prática como utilizar a ferram
 
 <br>
 
-## 5️⃣ [EXTRA] Adição de Previsão, Campo Calculado, Filtros e Personalização do Dashboard
+## 6️⃣ [EXTRA] Adição de Previsão, Campo Calculado, Filtros e Personalização do Dashboard
 
 1. Adiocione mais uma tela. No canto inferior em um símbolo de '+', ao lado da aba 'Tela 1' ou 'Geral'. Clique nele para adicionar uma segunda Tela.
    ![Tela 4](images/Tela2.png) 
